@@ -1,1 +1,1 @@
-[More anagrams](http://codekata.com/data/wordlist.txt)
+<a href="http://codekata.com/data/wordlist.txt" target="_blank">More anagrams </a>
