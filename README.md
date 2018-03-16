@@ -13,8 +13,10 @@ Filen `anagrams.txt` i dette repositoriet inneholder en rekke ord der noen av de
 * En kodeløsning som leser inn en tekstfil og teller antall anagrammer
 * Løsningen må være kjørbar på egen datamaskin
 
-### Potensielle interssante ikke-funksjonelle krav å vurdere
+### Potensielle interessante ikke-funksjonelle krav å vurdere
 * Testbarhet
 * Kode - lesbarhet
 * Vedlikeholdbarhet
+* Utvidbarhet
+* Skalerbarhet
 * Ytelse
