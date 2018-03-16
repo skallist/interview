@@ -9,8 +9,6 @@ Wikipedia definerer et anagram som
 
 Filen `anagrams.txt` i dette repositoriet inneholder en rekke ord der noen av de er anagrammer.
 
-Finn antall anagrammer i listen ved hjelp av kode.
-
 ## Funksjonelle krav
 * En kodeløsning som leser inn en tekstfil og teller antall anagrammer
 * Løsningen må være kjørbar på egen datamaskin
